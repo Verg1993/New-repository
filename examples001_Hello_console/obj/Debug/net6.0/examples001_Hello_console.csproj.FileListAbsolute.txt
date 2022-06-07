@@ -1,0 +1,16 @@
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\examples001_Hello_console.exe
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\examples001_Hello_console.deps.json
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\examples001_Hello_console.runtimeconfig.json
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\examples001_Hello_console.dll
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\ref\examples001_Hello_console.dll
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\bin\Debug\net6.0\examples001_Hello_console.pdb
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.GlobalUsings.g.cs
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.csproj.AssemblyReference.cache
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.AssemblyInfoInputs.cache
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.AssemblyInfo.cs
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.dll
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\ref\examples001_Hello_console.dll
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.pdb
+C:\Users\Verg\Desktop\Workspace\examples001_Hello_console\obj\Debug\net6.0\examples001_Hello_console.genruntimeconfig.cache
